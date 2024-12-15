@@ -1,0 +1,12 @@
+//requirements.txt
+
+groq
+python-dotenv
+numpy
+streamlit
+langchain-groq
+langchain_community
+pillow
+mysql-connector-python
+PyPDF2 
+PyMuPDF
